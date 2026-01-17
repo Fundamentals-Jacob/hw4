@@ -1,0 +1,70 @@
+---
+title: "DACSS 601 hw4"
+output: html_document
+---
+```{r}
+# Load tidyverse for data manipulation
+#install.packages("tidyverse")
+library(tidyverse)
+```
+
+```{r}
+# Read the three cleaned CIA datasets
+maternal <- read_csv("maternal_mortality_CSV") #read maternal mortality
+infant   <- read_csv("infant_mortality_CSV")  #read infant mortality
+lifeexp  <- read_csv("Life_expectancy_clean.csv") #read life expectancy
+
+# Check column names to know what to merge by
+colnames(maternal)
+colnames(infant)
+colnames(lifeexp)
+```
+```{r}
+#Merge maternal and infant datasets by "name"
+merged1 <- left_join(maternal, infant, by = "name")
+
+#Merge the result with life expectancy
+merged_all <- left_join(merged1, lifeexp, by = "name")
+
+#Keep only one region column and rename the other columns
+merged_all <- merged_all %>%
+  select(name, region, deaths_per_100000, deaths_per_1000, years) %>%  #keep only the wanted columns 
+  rename(
+    Country = name, #rename "name" to "Country" for clarity
+    Maternal_Mortality = deaths_per_100000, #rename "deaths_per_100000" to "Maternal_Mortality"
+    Infant_Mortality = deaths_per_1000, #rename "deaths_per_1000" to "Infant_Mortality"
+    Life_Expectancy = years, #rename "years" to "Life_Expectancy"
+    Region = region #rename "region" to "Region" for capitalization consistency
+  )
+```
+```{r}
+#save the merged dataset as a CSV file
+write_csv(merged_all, "merged_cia.csv")
+file.exists("merged_cia.csv") #verify the file exists
+```
+```{r}
+#aggregating
+colnames(merged_all) #check colnames for accurate region/variable names
+```
+```{r}
+#create new table with merged data aggregated by region and mean of results
+agg_region <- aggregate(data=merged_all,cbind(Maternal_Mortality,
+                                              Infant_Mortality,
+                                              Life_Expectancy)~Region, mean) #use the merged dataset as the source, group by Region and combine the three variables, apply the mean function to each group
+```
+```{r}
+write.csv(agg_region, "aggregated_by_region.csv", row.names = FALSE) #save aggregated data as CSV
+file.exists("aggregated_by_region.csv") #verify the file exists
+```
+```{r}
+#reshaping from wide to long, dropping Region column
+cia_long <- tidyr::pivot_longer(data=merged_all[, c("Country", "Maternal_Mortality", "Infant_Mortality", "Life_Expectancy")], #reshapes table, keeping all columns except region
+                                cols=!Country, #Country should not be reshaped
+                                names_to="Variable", #name of new column that will contain variable names
+                                values_to="Value")#name of new column that will contain the values
+```
+```{r}
+write.csv(cia_long, "cia_long_data.csv", row.names=FALSE) #save new long data as CSV
+file.exists("cia_long_data.csv") #verify the file exists
+```
+
