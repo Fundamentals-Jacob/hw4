@@ -1,0 +1,586 @@
+"Country","Variable","Value"
+"Nigeria","Maternal_Mortality",993
+"Nigeria","Infant_Mortality",65.6
+"Nigeria","Life_Expectancy",62.2
+"Chad","Maternal_Mortality",748
+"Chad","Infant_Mortality",61.1
+"Chad","Life_Expectancy",60
+"South Sudan","Maternal_Mortality",692
+"South Sudan","Infant_Mortality",58.6
+"South Sudan","Life_Expectancy",60.3
+"Central African Republic","Maternal_Mortality",692
+"Central African Republic","Infant_Mortality",79.3
+"Central African Republic","Life_Expectancy",56.4
+"Liberia","Maternal_Mortality",628
+"Liberia","Infant_Mortality",55.2
+"Liberia","Life_Expectancy",61.6
+"Somalia","Maternal_Mortality",563
+"Somalia","Infant_Mortality",81.5
+"Somalia","Life_Expectancy",56.5
+"Afghanistan","Maternal_Mortality",521
+"Afghanistan","Infant_Mortality",42
+"Afghanistan","Life_Expectancy",54.4
+"Benin","Maternal_Mortality",518
+"Benin","Infant_Mortality",51.6
+"Benin","Life_Expectancy",63
+"Guinea-Bissau","Maternal_Mortality",505
+"Guinea-Bissau","Infant_Mortality",45.1
+"Guinea-Bissau","Life_Expectancy",64.5
+"Guinea","Maternal_Mortality",494
+"Guinea","Infant_Mortality",45.8
+"Guinea","Life_Expectancy",64.6
+"Lesotho","Maternal_Mortality",478
+"Lesotho","Infant_Mortality",52.2
+"Lesotho","Life_Expectancy",60.2
+"Madagascar","Maternal_Mortality",445
+"Madagascar","Infant_Mortality",38.4
+"Madagascar","Life_Expectancy",68.8
+"Congo, Democratic Republic of the","Maternal_Mortality",427
+"Congo, Democratic Republic of the","Infant_Mortality",55.8
+"Congo, Democratic Republic of the","Life_Expectancy",62.6
+"Burundi","Maternal_Mortality",392
+"Burundi","Infant_Mortality",35.3
+"Burundi","Life_Expectancy",68.1
+"Mauritania","Maternal_Mortality",381
+"Mauritania","Infant_Mortality",29.9
+"Mauritania","Life_Expectancy",65.9
+"Kenya","Maternal_Mortality",379
+"Kenya","Infant_Mortality",26.8
+"Kenya","Life_Expectancy",70.4
+"Mali","Maternal_Mortality",367
+"Mali","Infant_Mortality",55.8
+"Mali","Life_Expectancy",63.2
+"Cote d'Ivoire","Maternal_Mortality",359
+"Cote d'Ivoire","Infant_Mortality",52.3
+"Cote d'Ivoire","Life_Expectancy",63.2
+"Zimbabwe","Maternal_Mortality",358
+"Zimbabwe","Infant_Mortality",32.8
+"Zimbabwe","Life_Expectancy",67.2
+"Gambia, The","Maternal_Mortality",354
+"Gambia, The","Infant_Mortality",35
+"Gambia, The","Life_Expectancy",68.4
+"Sierra Leone","Maternal_Mortality",354
+"Sierra Leone","Infant_Mortality",70.1
+"Sierra Leone","Life_Expectancy",59.4
+"Niger","Maternal_Mortality",350
+"Niger","Infant_Mortality",63
+"Niger","Life_Expectancy",60.9
+"Togo","Maternal_Mortality",349
+"Togo","Infant_Mortality",34.5
+"Togo","Life_Expectancy",72.1
+"Haiti","Maternal_Mortality",328
+"Haiti","Infant_Mortality",35
+"Haiti","Life_Expectancy",65.6
+"Eritrea","Maternal_Mortality",291
+"Eritrea","Infant_Mortality",39
+"Eritrea","Life_Expectancy",67.5
+"Tanzania","Maternal_Mortality",276
+"Tanzania","Infant_Mortality",28.4
+"Tanzania","Life_Expectancy",70.8
+"Nauru","Maternal_Mortality",273
+"Nauru","Infant_Mortality",7.5
+"Nauru","Life_Expectancy",68.6
+"Cameroon","Maternal_Mortality",258
+"Cameroon","Infant_Mortality",44.6
+"Cameroon","Life_Expectancy",64.2
+"Sudan","Maternal_Mortality",256
+"Sudan","Infant_Mortality",39.7
+"Sudan","Life_Expectancy",67.8
+"Burkina Faso","Maternal_Mortality",242
+"Burkina Faso","Infant_Mortality",48
+"Burkina Faso","Life_Expectancy",64.2
+"Congo, Republic of the","Maternal_Mortality",241
+"Congo, Republic of the","Infant_Mortality",29.9
+"Congo, Republic of the","Life_Expectancy",72.9
+"Senegal","Maternal_Mortality",237
+"Senegal","Infant_Mortality",30.4
+"Senegal","Life_Expectancy",70.6
+"Ghana","Maternal_Mortality",234
+"Ghana","Infant_Mortality",30.5
+"Ghana","Life_Expectancy",70.1
+"Gabon","Maternal_Mortality",233
+"Gabon","Infant_Mortality",26
+"Gabon","Life_Expectancy",70.4
+"Rwanda","Maternal_Mortality",229
+"Rwanda","Infant_Mortality",27.4
+"Rwanda","Life_Expectancy",66.6
+"Venezuela","Maternal_Mortality",227
+"Venezuela","Infant_Mortality",13.6
+"Venezuela","Life_Expectancy",74.5
+"Malawi","Maternal_Mortality",225
+"Malawi","Infant_Mortality",28.9
+"Malawi","Life_Expectancy",73
+"Ethiopia","Maternal_Mortality",195
+"Ethiopia","Infant_Mortality",31.3
+"Ethiopia","Life_Expectancy",67.7
+"Timor-Leste","Maternal_Mortality",192
+"Timor-Leste","Infant_Mortality",41.9
+"Timor-Leste","Life_Expectancy",70.5
+"Papua New Guinea","Maternal_Mortality",189
+"Papua New Guinea","Infant_Mortality",31.3
+"Papua New Guinea","Life_Expectancy",70.1
+"Burma","Maternal_Mortality",185
+"Burma","Infant_Mortality",30.8
+"Burma","Life_Expectancy",70.3
+"Angola","Maternal_Mortality",183
+"Angola","Infant_Mortality",46.1
+"Angola","Life_Expectancy",62.9
+"Comoros","Maternal_Mortality",179
+"Comoros","Infant_Mortality",53.9
+"Comoros","Life_Expectancy",67.8
+"Equatorial Guinea","Maternal_Mortality",174
+"Equatorial Guinea","Infant_Mortality",76.9
+"Equatorial Guinea","Life_Expectancy",63.9
+"Uganda","Maternal_Mortality",170
+"Uganda","Infant_Mortality",27.5
+"Uganda","Life_Expectancy",69.7
+"Tuvalu","Maternal_Mortality",170
+"Tuvalu","Infant_Mortality",27.2
+"Tuvalu","Life_Expectancy",69
+"Djibouti","Maternal_Mortality",162
+"Djibouti","Infant_Mortality",44.3
+"Djibouti","Life_Expectancy",65.9
+"Pakistan","Maternal_Mortality",155
+"Pakistan","Infant_Mortality",50.3
+"Pakistan","Life_Expectancy",70.3
+"Marshall Islands","Maternal_Mortality",155
+"Marshall Islands","Infant_Mortality",20.1
+"Marshall Islands","Life_Expectancy",75.2
+"Botswana","Maternal_Mortality",155
+"Botswana","Infant_Mortality",27.8
+"Botswana","Life_Expectancy",66.4
+"Bolivia","Maternal_Mortality",146
+"Bolivia","Infant_Mortality",22.1
+"Bolivia","Life_Expectancy",72.5
+"Nepal","Maternal_Mortality",142
+"Nepal","Infant_Mortality",23.4
+"Nepal","Life_Expectancy",73
+"Indonesia","Maternal_Mortality",140
+"Indonesia","Infant_Mortality",18.5
+"Indonesia","Life_Expectancy",73.6
+"Namibia","Maternal_Mortality",139
+"Namibia","Infant_Mortality",27.1
+"Namibia","Life_Expectancy",65.9
+"Cambodia","Maternal_Mortality",137
+"Cambodia","Infant_Mortality",27.2
+"Cambodia","Life_Expectancy",71.4
+"Jamaica","Maternal_Mortality",130
+"Jamaica","Infant_Mortality",14.5
+"Jamaica","Life_Expectancy",76.3
+"Micronesia, Federated States of","Maternal_Mortality",129
+"Micronesia, Federated States of","Infant_Mortality",20.4
+"Micronesia, Federated States of","Life_Expectancy",75
+"Dominican Republic","Maternal_Mortality",124
+"Dominican Republic","Infant_Mortality",20.8
+"Dominican Republic","Life_Expectancy",72.6
+"Solomon Islands","Maternal_Mortality",123
+"Solomon Islands","Infant_Mortality",18.6
+"Solomon Islands","Life_Expectancy",77.2
+"South Africa","Maternal_Mortality",118
+"South Africa","Infant_Mortality",19.7
+"South Africa","Life_Expectancy",71.9
+"Eswatini","Maternal_Mortality",118
+"Eswatini","Infant_Mortality",38
+"Eswatini","Life_Expectancy",60.7
+"Yemen","Maternal_Mortality",118
+"Yemen","Infant_Mortality",42.4
+"Yemen","Life_Expectancy",68.2
+"Bangladesh","Maternal_Mortality",115
+"Bangladesh","Infant_Mortality",22
+"Bangladesh","Life_Expectancy",75.2
+"Laos","Maternal_Mortality",112
+"Laos","Infant_Mortality",34.2
+"Laos","Life_Expectancy",69
+"Samoa","Maternal_Mortality",101
+"Samoa","Infant_Mortality",17.2
+"Samoa","Life_Expectancy",75.7
+"Vanuatu","Maternal_Mortality",100
+"Vanuatu","Infant_Mortality",13.4
+"Vanuatu","Life_Expectancy",75.7
+"Guatemala","Maternal_Mortality",94
+"Guatemala","Infant_Mortality",23.4
+"Guatemala","Life_Expectancy",73.5
+"Palau","Maternal_Mortality",89
+"Palau","Infant_Mortality",10.6
+"Palau","Life_Expectancy",75.2
+"Zambia","Maternal_Mortality",85
+"Zambia","Infant_Mortality",30.1
+"Zambia","Life_Expectancy",66.9
+"Philippines","Maternal_Mortality",84
+"Philippines","Infant_Mortality",18.5
+"Philippines","Life_Expectancy",70.8
+"Suriname","Maternal_Mortality",84
+"Suriname","Infant_Mortality",29.3
+"Suriname","Life_Expectancy",72.7
+"Mozambique","Maternal_Mortality",82
+"Mozambique","Infant_Mortality",56.7
+"Mozambique","Life_Expectancy",58.3
+"Kiribati","Maternal_Mortality",80
+"Kiribati","Infant_Mortality",30.8
+"Kiribati","Life_Expectancy",68.5
+"India","Maternal_Mortality",80
+"India","Infant_Mortality",30.5
+"India","Life_Expectancy",68.2
+"Bahamas, The","Maternal_Mortality",76
+"Bahamas, The","Infant_Mortality",9.2
+"Bahamas, The","Life_Expectancy",76.7
+"Guyana","Maternal_Mortality",75
+"Guyana","Infant_Mortality",20.6
+"Guyana","Life_Expectancy",72.4
+"Sao Tome and Principe","Maternal_Mortality",75
+"Sao Tome and Principe","Infant_Mortality",41.7
+"Sao Tome and Principe","Life_Expectancy",67.7
+"Saint Kitts and Nevis","Maternal_Mortality",74
+"Saint Kitts and Nevis","Infant_Mortality",7.9
+"Saint Kitts and Nevis","Life_Expectancy",77.6
+"Morocco","Maternal_Mortality",70
+"Morocco","Infant_Mortality",17.8
+"Morocco","Life_Expectancy",74.2
+"Belize","Maternal_Mortality",67
+"Belize","Infant_Mortality",11.3
+"Belize","Life_Expectancy",74.3
+"Korea, North","Maternal_Mortality",67
+"Korea, North","Infant_Mortality",14.7
+"Korea, North","Life_Expectancy",73.5
+"Tonga","Maternal_Mortality",67
+"Tonga","Infant_Mortality",11.5
+"Tonga","Life_Expectancy",78
+"Brazil","Maternal_Mortality",67
+"Brazil","Infant_Mortality",12.7
+"Brazil","Life_Expectancy",76.3
+"Iraq","Maternal_Mortality",66
+"Iraq","Infant_Mortality",18.3
+"Iraq","Life_Expectancy",73.7
+"Mauritius","Maternal_Mortality",66
+"Mauritius","Infant_Mortality",11.4
+"Mauritius","Life_Expectancy",75.4
+"Algeria","Maternal_Mortality",62
+"Algeria","Infant_Mortality",18.6
+"Algeria","Life_Expectancy",77.9
+"Nicaragua","Maternal_Mortality",60
+"Nicaragua","Infant_Mortality",14.1
+"Nicaragua","Life_Expectancy",74.7
+"Colombia","Maternal_Mortality",59
+"Colombia","Infant_Mortality",11.6
+"Colombia","Life_Expectancy",74.9
+"Libya","Maternal_Mortality",59
+"Libya","Infant_Mortality",10.4
+"Libya","Life_Expectancy",77.7
+"Paraguay","Maternal_Mortality",58
+"Paraguay","Infant_Mortality",21.4
+"Paraguay","Life_Expectancy",78.8
+"Saint Vincent and the Grenadines","Maternal_Mortality",56
+"Saint Vincent and the Grenadines","Infant_Mortality",12
+"Saint Vincent and the Grenadines","Life_Expectancy",77.2
+"Ecuador","Maternal_Mortality",55
+"Ecuador","Infant_Mortality",11.2
+"Ecuador","Life_Expectancy",74.9
+"Trinidad and Tobago","Maternal_Mortality",54
+"Trinidad and Tobago","Infant_Mortality",14.7
+"Trinidad and Tobago","Life_Expectancy",76.5
+"Peru","Maternal_Mortality",51
+"Peru","Infant_Mortality",10.6
+"Peru","Life_Expectancy",68.9
+"Grenada","Maternal_Mortality",48
+"Grenada","Infant_Mortality",8.8
+"Grenada","Life_Expectancy",76.3
+"Vietnam","Maternal_Mortality",48
+"Vietnam","Infant_Mortality",13.8
+"Vietnam","Life_Expectancy",76.1
+"Bhutan","Maternal_Mortality",47
+"Bhutan","Infant_Mortality",23
+"Bhutan","Life_Expectancy",73.7
+"Honduras","Maternal_Mortality",47
+"Honduras","Infant_Mortality",15.4
+"Honduras","Life_Expectancy",73.1
+"Saint Lucia","Maternal_Mortality",44
+"Saint Lucia","Infant_Mortality",11.3
+"Saint Lucia","Life_Expectancy",79.4
+"Kyrgyzstan","Maternal_Mortality",42
+"Kyrgyzstan","Infant_Mortality",24
+"Kyrgyzstan","Life_Expectancy",72.9
+"Mexico","Maternal_Mortality",42
+"Mexico","Infant_Mortality",12.3
+"Mexico","Life_Expectancy",74.6
+"Seychelles","Maternal_Mortality",42
+"Seychelles","Infant_Mortality",10
+"Seychelles","Life_Expectancy",76.6
+"Mongolia","Maternal_Mortality",41
+"Mongolia","Infant_Mortality",8.6
+"Mongolia","Life_Expectancy",71.9
+"Cabo Verde","Maternal_Mortality",40
+"Cabo Verde","Infant_Mortality",21.9
+"Cabo Verde","Life_Expectancy",74.3
+"El Salvador","Maternal_Mortality",39
+"El Salvador","Infant_Mortality",10
+"El Salvador","Life_Expectancy",75.9
+"Panama","Maternal_Mortality",37
+"Panama","Infant_Mortality",13.2
+"Panama","Life_Expectancy",79.2
+"Dominica","Maternal_Mortality",36
+"Dominica","Infant_Mortality",10.5
+"Dominica","Life_Expectancy",78.7
+"Tunisia","Maternal_Mortality",36
+"Tunisia","Infant_Mortality",10.6
+"Tunisia","Life_Expectancy",77.3
+"Brunei","Maternal_Mortality",36
+"Brunei","Infant_Mortality",9.8
+"Brunei","Life_Expectancy",78.9
+"Antigua and Barbuda","Maternal_Mortality",35
+"Antigua and Barbuda","Infant_Mortality",13.3
+"Antigua and Barbuda","Life_Expectancy",78.3
+"Cuba","Maternal_Mortality",35
+"Cuba","Infant_Mortality",5.2
+"Cuba","Life_Expectancy",80.1
+"Barbados","Maternal_Mortality",35
+"Barbados","Infant_Mortality",15.1
+"Barbados","Life_Expectancy",79
+"Thailand","Maternal_Mortality",34
+"Thailand","Infant_Mortality",6.2
+"Thailand","Life_Expectancy",78.2
+"Argentina","Maternal_Mortality",33
+"Argentina","Infant_Mortality",7.4
+"Argentina","Life_Expectancy",78.8
+"Maldives","Maternal_Mortality",32
+"Maldives","Infant_Mortality",23.7
+"Maldives","Life_Expectancy",77.4
+"Jordan","Maternal_Mortality",31
+"Jordan","Infant_Mortality",12.9
+"Jordan","Life_Expectancy",76.5
+"Fiji","Maternal_Mortality",30
+"Fiji","Infant_Mortality",9.4
+"Fiji","Life_Expectancy",74.8
+"Uzbekistan","Maternal_Mortality",26
+"Uzbekistan","Infant_Mortality",17.6
+"Uzbekistan","Life_Expectancy",76.2
+"Malaysia","Maternal_Mortality",26
+"Malaysia","Infant_Mortality",6.3
+"Malaysia","Life_Expectancy",76.6
+"Costa Rica","Maternal_Mortality",24
+"Costa Rica","Infant_Mortality",6.3
+"Costa Rica","Life_Expectancy",80.3
+"Georgia","Maternal_Mortality",20
+"Georgia","Infant_Mortality",20.9
+"Georgia","Life_Expectancy",72.8
+"Syria","Maternal_Mortality",20
+"Syria","Infant_Mortality",14.7
+"Syria","Life_Expectancy",74.8
+"Latvia","Maternal_Mortality",19
+"Latvia","Infant_Mortality",2.4
+"Latvia","Life_Expectancy",76.4
+"Moldova","Maternal_Mortality",19
+"Moldova","Infant_Mortality",13.5
+"Moldova","Life_Expectancy",70.1
+"Armenia","Maternal_Mortality",19
+"Armenia","Infant_Mortality",11.3
+"Armenia","Life_Expectancy",76.7
+"Sri Lanka","Maternal_Mortality",18
+"Sri Lanka","Infant_Mortality",6.8
+"Sri Lanka","Life_Expectancy",76.8
+"Azerbaijan","Maternal_Mortality",18
+"Azerbaijan","Infant_Mortality",10.7
+"Azerbaijan","Life_Expectancy",75.9
+"Egypt","Maternal_Mortality",17
+"Egypt","Infant_Mortality",16.4
+"Egypt","Life_Expectancy",75
+"Bahrain","Maternal_Mortality",17
+"Bahrain","Infant_Mortality",9.6
+"Bahrain","Life_Expectancy",80.4
+"United States","Maternal_Mortality",17
+"United States","Infant_Mortality",5
+"United States","Life_Expectancy",80.9
+"China","Maternal_Mortality",16
+"China","Infant_Mortality",6
+"China","Life_Expectancy",78.7
+"West Bank","Maternal_Mortality",16
+"West Bank","Infant_Mortality",14.2
+"West Bank","Life_Expectancy",76.5
+"Gaza Strip","Maternal_Mortality",16
+"Gaza Strip","Infant_Mortality",14.2
+"Gaza Strip","Life_Expectancy",75.5
+"Iran","Maternal_Mortality",16
+"Iran","Infant_Mortality",9.7
+"Iran","Life_Expectancy",75.6
+"Turkey (Turkiye)","Maternal_Mortality",15
+"Turkey (Turkiye)","Infant_Mortality",17.9
+"Turkey (Turkiye)","Life_Expectancy",76.7
+"Uruguay","Maternal_Mortality",15
+"Uruguay","Infant_Mortality",6.9
+"Uruguay","Life_Expectancy",78.9
+"Portugal","Maternal_Mortality",15
+"Portugal","Infant_Mortality",2.4
+"Portugal","Life_Expectancy",81.9
+"Ukraine","Maternal_Mortality",15
+"Ukraine","Infant_Mortality",8.4
+"Ukraine","Life_Expectancy",70.5
+"Lebanon","Maternal_Mortality",15
+"Lebanon","Infant_Mortality",7.3
+"Lebanon","Life_Expectancy",79.2
+"Cyprus","Maternal_Mortality",14
+"Cyprus","Infant_Mortality",7.9
+"Cyprus","Life_Expectancy",80.2
+"Tajikistan","Maternal_Mortality",14
+"Tajikistan","Infant_Mortality",20.3
+"Tajikistan","Life_Expectancy",71.9
+"Oman","Maternal_Mortality",13
+"Oman","Infant_Mortality",13.6
+"Oman","Life_Expectancy",77.4
+"Canada","Maternal_Mortality",12
+"Canada","Infant_Mortality",3.8
+"Canada","Life_Expectancy",84.2
+"Romania","Maternal_Mortality",12
+"Romania","Infant_Mortality",5.3
+"Romania","Life_Expectancy",76.9
+"Luxembourg","Maternal_Mortality",12
+"Luxembourg","Infant_Mortality",3.1
+"Luxembourg","Life_Expectancy",83.4
+"Hungary","Maternal_Mortality",12
+"Hungary","Infant_Mortality",4.6
+"Hungary","Life_Expectancy",76
+"Andorra","Maternal_Mortality",11
+"Andorra","Infant_Mortality",3.3
+"Andorra","Life_Expectancy",83.8
+"Serbia","Maternal_Mortality",11
+"Serbia","Infant_Mortality",4.4
+"Serbia","Life_Expectancy",75.3
+"Puerto Rico","Maternal_Mortality",11
+"Puerto Rico","Infant_Mortality",5.7
+"Puerto Rico","Life_Expectancy",82.1
+"Chile","Maternal_Mortality",10
+"Chile","Infant_Mortality",4.5
+"Chile","Life_Expectancy",80.3
+"Kazakhstan","Maternal_Mortality",10
+"Kazakhstan","Infant_Mortality",7.9
+"Kazakhstan","Life_Expectancy",73.3
+"Russia","Maternal_Mortality",9
+"Russia","Infant_Mortality",6.4
+"Russia","Life_Expectancy",72.3
+"Lithuania","Maternal_Mortality",8
+"Lithuania","Infant_Mortality",2.5
+"Lithuania","Life_Expectancy",76.1
+"Kuwait","Maternal_Mortality",8
+"Kuwait","Infant_Mortality",7
+"Kuwait","Life_Expectancy",79.6
+"United Kingdom","Maternal_Mortality",8
+"United Kingdom","Infant_Mortality",3.7
+"United Kingdom","Life_Expectancy",82.2
+"Finland","Maternal_Mortality",8
+"Finland","Infant_Mortality",1.9
+"Finland","Life_Expectancy",82.2
+"Malta","Maternal_Mortality",8
+"Malta","Infant_Mortality",4.6
+"Malta","Life_Expectancy",83.6
+"San Marino","Maternal_Mortality",8
+"San Marino","Infant_Mortality",6.1
+"San Marino","Life_Expectancy",84.2
+"France","Maternal_Mortality",7
+"France","Infant_Mortality",3.1
+"France","Life_Expectancy",82.6
+"Albania","Maternal_Mortality",7
+"Albania","Infant_Mortality",10.8
+"Albania","Life_Expectancy",79.9
+"New Zealand","Maternal_Mortality",7
+"New Zealand","Infant_Mortality",3.3
+"New Zealand","Life_Expectancy",82.9
+"Saudi Arabia","Maternal_Mortality",7
+"Saudi Arabia","Infant_Mortality",11.4
+"Saudi Arabia","Life_Expectancy",77.2
+"Italy","Maternal_Mortality",6
+"Italy","Infant_Mortality",3
+"Italy","Life_Expectancy",83
+"Bosnia and Herzegovina","Maternal_Mortality",6
+"Bosnia and Herzegovina","Infant_Mortality",3.8
+"Bosnia and Herzegovina","Life_Expectancy",78.5
+"Montenegro","Maternal_Mortality",6
+"Montenegro","Infant_Mortality",3.1
+"Montenegro","Life_Expectancy",78.2
+"Singapore","Maternal_Mortality",6
+"Singapore","Infant_Mortality",NA
+"Singapore","Life_Expectancy",86.7
+"Austria","Maternal_Mortality",6
+"Austria","Infant_Mortality",3.2
+"Austria","Life_Expectancy",82.7
+"Bulgaria","Maternal_Mortality",6
+"Bulgaria","Infant_Mortality",7.5
+"Bulgaria","Life_Expectancy",76.1
+"Turkmenistan","Maternal_Mortality",5
+"Turkmenistan","Infant_Mortality",35
+"Turkmenistan","Life_Expectancy",72.4
+"Estonia","Maternal_Mortality",5
+"Estonia","Infant_Mortality",2
+"Estonia","Life_Expectancy",78.4
+"Greece","Maternal_Mortality",5
+"Greece","Infant_Mortality",3.4
+"Greece","Life_Expectancy",81.9
+"Switzerland","Maternal_Mortality",5
+"Switzerland","Infant_Mortality",3
+"Switzerland","Life_Expectancy",83.9
+"Monaco","Maternal_Mortality",5
+"Monaco","Infant_Mortality",1.7
+"Monaco","Life_Expectancy",89.8
+"Ireland","Maternal_Mortality",4
+"Ireland","Infant_Mortality",3.2
+"Ireland","Life_Expectancy",82
+"Qatar","Maternal_Mortality",4
+"Qatar","Infant_Mortality",6.2
+"Qatar","Life_Expectancy",80.3
+"Netherlands","Maternal_Mortality",4
+"Netherlands","Infant_Mortality",3.6
+"Netherlands","Life_Expectancy",81.9
+"Belgium","Maternal_Mortality",4
+"Belgium","Infant_Mortality",3
+"Belgium","Life_Expectancy",82.3
+"Denmark","Maternal_Mortality",4
+"Denmark","Infant_Mortality",3.1
+"Denmark","Life_Expectancy",82.1
+"Korea, South","Maternal_Mortality",4
+"Korea, South","Infant_Mortality",2.2
+"Korea, South","Life_Expectancy",83.4
+"Sweden","Maternal_Mortality",4
+"Sweden","Infant_Mortality",2.2
+"Sweden","Life_Expectancy",82.9
+"Slovakia","Maternal_Mortality",4
+"Slovakia","Infant_Mortality",5
+"Slovakia","Life_Expectancy",77.2
+"Germany","Maternal_Mortality",4
+"Germany","Infant_Mortality",3
+"Germany","Life_Expectancy",81.9
+"Japan","Maternal_Mortality",3
+"Japan","Infant_Mortality",1.8
+"Japan","Life_Expectancy",85.2
+"Spain","Maternal_Mortality",3
+"Spain","Infant_Mortality",2.4
+"Spain","Life_Expectancy",83
+"North Macedonia","Maternal_Mortality",3
+"North Macedonia","Infant_Mortality",6.8
+"North Macedonia","Life_Expectancy",77.3
+"Iceland","Maternal_Mortality",3
+"Iceland","Infant_Mortality",1.6
+"Iceland","Life_Expectancy",84
+"Czechia","Maternal_Mortality",3
+"Czechia","Infant_Mortality",2.5
+"Czechia","Life_Expectancy",78.6
+"Croatia","Maternal_Mortality",3
+"Croatia","Infant_Mortality",3.4
+"Croatia","Life_Expectancy",77.7
+"United Arab Emirates","Maternal_Mortality",3
+"United Arab Emirates","Infant_Mortality",4.9
+"United Arab Emirates","Life_Expectancy",79.9
+"Slovenia","Maternal_Mortality",3
+"Slovenia","Infant_Mortality",1.8
+"Slovenia","Life_Expectancy",82.2
+"Australia","Maternal_Mortality",2
+"Australia","Infant_Mortality",3
+"Australia","Life_Expectancy",83.5
+"Israel","Maternal_Mortality",2
+"Israel","Infant_Mortality",2.6
+"Israel","Life_Expectancy",83.1
+"Poland","Maternal_Mortality",2
+"Poland","Infant_Mortality",4.6
+"Poland","Life_Expectancy",76.7
+"Belarus","Maternal_Mortality",1
+"Belarus","Infant_Mortality",2.1
+"Belarus","Life_Expectancy",74.7
+"Norway","Maternal_Mortality",1
+"Norway","Infant_Mortality",1.8
+"Norway","Life_Expectancy",82.9
