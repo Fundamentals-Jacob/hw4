@@ -11,7 +11,7 @@
 
 
 
-<title>DACSS hw4</title>
+<title>DACSS 601 hw4</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -348,7 +348,7 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">DACSS hw4</h1>
+<h1 class="title toc-ignore">DACSS 601 hw4</h1>
 
 </div>
 
@@ -427,7 +427,9 @@ merged_all &lt;- merged_all %&gt;%
     Region = region #rename &quot;region&quot; to &quot;Region&quot; for capitalization consistency
   )</code></pre>
 <pre class="r"><code>#save the merged dataset as a CSV file
-write_csv(merged_all, &quot;merged_cia.csv&quot;)</code></pre>
+write_csv(merged_all, &quot;merged_cia.csv&quot;)
+file.exists(&quot;merged_cia.csv&quot;) #verify the file exists</code></pre>
+<pre><code>## [1] TRUE</code></pre>
 <pre class="r"><code>#aggregating
 colnames(merged_all) #check colnames for accurate region/variable names</code></pre>
 <pre><code>## [1] &quot;Country&quot;            &quot;Region&quot;             &quot;Maternal_Mortality&quot;
@@ -436,13 +438,17 @@ colnames(merged_all) #check colnames for accurate region/variable names</code></
 agg_region &lt;- aggregate(data=merged_all,cbind(Maternal_Mortality,
                                               Infant_Mortality,
                                               Life_Expectancy)~Region, mean) #use the merged dataset as the source, group by Region and combine the three variables, apply the mean function to each group</code></pre>
-<pre class="r"><code>write.csv(agg_region, &quot;aggregated_by_region.csv&quot;, row.names = FALSE) #save aggregated data as CSV</code></pre>
+<pre class="r"><code>write.csv(agg_region, &quot;aggregated_by_region.csv&quot;, row.names = FALSE) #save aggregated data as CSV
+file.exists(&quot;aggregated_by_region.csv&quot;) #verify the file exists</code></pre>
+<pre><code>## [1] TRUE</code></pre>
 <pre class="r"><code>#reshaping from wide to long, dropping Region column
 cia_long &lt;- tidyr::pivot_longer(data=merged_all[, c(&quot;Country&quot;, &quot;Maternal_Mortality&quot;, &quot;Infant_Mortality&quot;, &quot;Life_Expectancy&quot;)], #reshapes table, keeping all columns except region
                                 cols=!Country, #Country should not be reshaped
                                 names_to=&quot;Variable&quot;, #name of new column that will contain variable names
                                 values_to=&quot;Value&quot;)#name of new column that will contain the values</code></pre>
-<pre class="r"><code>write.csv(cia_long, &quot;cia_long_data.csv&quot;, row.names=FALSE) #save new long data as CSV</code></pre>
+<pre class="r"><code>write.csv(cia_long, &quot;cia_long_data.csv&quot;, row.names=FALSE) #save new long data as CSV
+file.exists(&quot;cia_long_data.csv&quot;) #verify the file exists</code></pre>
+<pre><code>## [1] TRUE</code></pre>
 
 
 
